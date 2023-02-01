@@ -1,4 +1,4 @@
-#Fake News Detection Using Python & Machine Learning
+Fake News Detection Using Python & Machine Learning
 
 Deep Learning & Machine Learning Playlist👉🏻 https://www.youtube.com/playlist?list=PLWyN7K28ZraSdSdTvQEDKPta5PATUmaiT
 
